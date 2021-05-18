@@ -38,7 +38,7 @@ const App = () => {
       <div>
         <a
           className="link"
-          href="https://github.com/Leneli?tab=repositories"
+          href="https://github.com/Leneli/react-bar-chart"
           target="_blank"
           rel="noopener noreferrer"
         >Go to GitHub</a>
