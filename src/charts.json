@@ -1,0 +1,127 @@
+[
+  {
+    "title": "BarChart Title #1",
+    "points": [
+      {
+        "order": 1,
+        "percent": 100
+      },
+      {
+        "order": 2,
+        "percent": 95
+      },
+      {
+        "order": 3,
+        "percent": 70
+      },
+      {
+        "order": 4,
+        "percent": 66
+      },
+      {
+        "order": 5,
+        "percent": 50
+      },
+      {
+        "order": 6,
+        "percent": 70
+      },
+      {
+        "order": 7,
+        "percent": 84
+      },
+      {
+        "order": 8,
+        "percent": 30
+      },
+      {
+        "order": 9,
+        "percent": 45
+      },
+      {
+        "order": 10,
+        "percent": 70
+      }
+    ]
+  },
+
+  {
+    "title": "BarChart Title #2",
+    "columnWidth": 30,
+    "paddingWidth": 20,
+    "points": [
+      {
+        "order": 3,
+        "percent": 50,
+        "color": "#fbe961"
+      },
+      {
+        "order": 1,
+        "percent": 70,
+        "color": "#61fb9f"
+      },
+      {
+        "order": 4,
+        "percent": 66,
+        "color": "#fbb761"
+      },
+      {
+        "order": 2,
+        "percent": 60,
+        "color": "#b1fb61"
+      },
+      {
+        "order": 5,
+        "percent": 80,
+        "color": "#fb6261"
+      }
+    ]
+  },
+
+  {
+    "title": "BarChart Title #3",
+    "color": "#c161fb",
+    "points": [
+      {
+        "order": 1,
+        "percent": 10
+      },
+      {
+        "order": 2,
+        "percent": 15
+      },
+      {
+        "order": 3,
+        "percent": 27
+      },
+      {
+        "order": 4,
+        "percent": 44
+      },
+      {
+        "order": 5,
+        "percent": 50
+      },
+      {
+        "order": 6,
+        "percent": 70
+      },
+      {
+        "order": 7,
+        "percent": 84
+      },
+      {
+        "order": 8,
+        "percent": 88
+      },
+      {
+        "order": 9,
+        "percent": 88
+      },
+      {
+        "order": 10,
+        "percent": 90
+      }
+    ]
+  }
+]
